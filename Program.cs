@@ -1,7 +1,6 @@
 ﻿using System;
-// hello!
 
-public class Greet 
+class Greet 
 {
     public void greeting()
     {
